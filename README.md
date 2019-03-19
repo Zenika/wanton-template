@@ -25,3 +25,6 @@ A demo is also available, thanks to [Heroku](https://www.heroku.com), at https:/
 <br />
 Please contribute :) (even talking to me is a big thing!)<br />
 You can can find the issue board here: https://github.com/Zenika/wanton-template/issues.
+
+ARCHIVED!
+Project moved to https://github.com/LamSonFei/wonton-plate
